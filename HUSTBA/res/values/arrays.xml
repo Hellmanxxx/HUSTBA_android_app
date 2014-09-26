@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="sharing_type">
+        <item></item>
+        <item>规则学习心得</item>
+        <item>临场执法心得</item>
+        <item>班级比赛总结</item>
+        <item>联赛总结</item>
+    </string-array>
+</resources>
